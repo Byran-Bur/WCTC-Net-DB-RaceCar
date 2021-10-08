@@ -26,6 +26,7 @@ namespace RaceTrack.RaceTrack
             Drivers.Add(new FarmerJoe(new Tractor()));
             Drivers.Add(new Antonio(new FordGt()));
             Drivers.Add(new SoccerMom(new Minivan()));
+            Drivers.Add(new vsCodeMonster(new MonsterTruck()));
         }
 
         public void DriversReady()
